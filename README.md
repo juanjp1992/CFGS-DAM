@@ -3,6 +3,6 @@
 En estos documentos podremos apreciar poco a poco el avance en cuanto a conocimientos.</p>
 </br>
 <ol>
-  <li><a href="www.google.es" target="_blank"><b>Calculadora en Horas Distancia Corredor:</b> Probando la Programación Orientada a Objetos</a></li>
+  <li><a href="TiempoCorredor.zip" target="_blank"><b>Calculadora en Horas Distancia Corredor:</b> Probando la Programación Orientada a Objetos</a></li>
 
 </ol>
