@@ -1,0 +1,4 @@
+Código: 1, Nombre: Tornillo, Cantidad: 700, Descripción: Tornillo pequeño
+Código: 2, Nombre: Tuerca, Cantidad: 69, Descripción: Tuerca para tornillo pequeño
+Código: 3, Nombre: Clavo, Cantidad: 100, Descripción: Clavo de cabeza plana
+Código: 4, Nombre: Alambre, Cantidad: 300, Descripción: Rollo de alambre
